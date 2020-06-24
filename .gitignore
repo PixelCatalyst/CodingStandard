@@ -50,6 +50,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+# Code Blocks project files
+*.cbp
+
 # Files built by Visual Studio/MSVC
 *_i.c
 *_p.c
