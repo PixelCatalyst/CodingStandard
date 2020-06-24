@@ -4,4 +4,6 @@ project(CodingStandard)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CodingStandard
-        main.cpp)
+        main.cpp
+        vector/Vector.cpp
+        vector/Vector.hpp)
